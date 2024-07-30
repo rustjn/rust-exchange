@@ -1,6 +1,6 @@
 {
   "name": "@rustjn/rust-exchange",
-  "version": "1.0.160",
+  "version": "1.0.161",
   "description": "Description for rust-exchange",
   "main": "src/index.js",
   "scripts": {
